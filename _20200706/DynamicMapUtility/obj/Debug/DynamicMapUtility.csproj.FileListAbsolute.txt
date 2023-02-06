@@ -1,0 +1,12 @@
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\bin\Debug\DynamicMapUtility.dll
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\bin\Debug\DynamicMapUtility.pdb
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.csprojAssemblyReference.cache
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.csproj.CoreCompileInputs.cache
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.dll
+C:\Users\ching\source\repos\20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.pdb
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\bin\Debug\DynamicMapUtility.dll
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\bin\Debug\DynamicMapUtility.pdb
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.csprojAssemblyReference.cache
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.csproj.CoreCompileInputs.cache
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.dll
+C:\Users\ching\source\repos\_20200706\DynamicMapUtility\obj\Debug\DynamicMapUtility.pdb
