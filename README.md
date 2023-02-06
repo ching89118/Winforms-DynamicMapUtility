@@ -1,2 +1,2 @@
 # Winforms-DynamicMapUtility
-An beginner made application by WinForm
+A beginner made application by WinForms
